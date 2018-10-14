@@ -9,4 +9,4 @@ An easy implementation of <a href="https://console.bluemix.net/docs/services/lan
 
 2. start the react app
    <br/>translate$ `cd client`
-   <br/>translate$ `npm start`
+   <br/>client$ `npm start`
