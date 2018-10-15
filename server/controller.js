@@ -16,7 +16,6 @@ module.exports = {
     });
   },
   translate: (req, res) => {
-    console.log(req.body);
     const { text, source, target } = req.body;
     const translateParams = {
       text,
