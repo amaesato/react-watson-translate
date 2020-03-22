@@ -58,9 +58,9 @@ class App extends Component {
       languages,
     } = this.state;
     return (
-      <div className="App">
-        <header className="App-header">
-          <h1 className="App-title">Translate</h1>
+      <div className="app">
+        <header className="app-header">
+          <h1 className="app-title">Translate</h1>
         </header>
         <main>
           {languages.length > 0 && (
