@@ -1,4 +1,4 @@
-require('dotenv/config');
+require('dotenv').config({path: '../.env'});
 
 const LanguageTranslatorV3 = require('watson-developer-cloud/language-translator/v3');
 
